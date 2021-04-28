@@ -8,5 +8,6 @@ package com.javakc;
  */
 public class TestGit1 {
     private String name;
+    private int age;
     private String passwd;
 }
