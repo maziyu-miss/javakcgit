@@ -7,4 +7,5 @@ package com.javakc;
  * @create: 2021/4/28 9:35
  */
 public class TestGit1 {
+    private String name;
 }
